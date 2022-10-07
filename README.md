@@ -11,13 +11,13 @@
 </br>
 
 ## 📧 E-mail 📧
-  <a href="mailto:lhj12ps@gmail.com">
+  <a href="mailto:lhj12ps@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </a>
-  <a href="https://hancoco.tistory.com/">
+  <a href="https://hancoco.tistory.com/" target="_blank" >
       <img src="https://img.shields.io/badge/Go To Blog-339933?style=for-the-badge&logo=About.me&logoColor=black"/>
   </a>
-  <a href="https://lhj12ps.github.io/">
+  <a href="https://lhj12ps.github.io/" target="_blank" >
       <img src="https://img.shields.io/badge/PortFolio-52B0E7?style=for-the-badge&logo=About.me&logoColor=black"/>
   </a>
   </br>
